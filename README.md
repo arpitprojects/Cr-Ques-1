@@ -18,10 +18,10 @@ Repo uses Node.js (build on v10.15.* )
 
 Following Libraries are used inside
 
-*Javascript
-*ES6
-*Node server
-*No libraries used
+- Javascript
+- ES6
+ - Node server
+ - No libraries used
 
 
 ### Improvements/Bugs
